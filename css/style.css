@@ -234,9 +234,10 @@ nav{
     margin-top: 70px;
 }
 .seccion-opciones{
-    margin-right:90px;
+    margin-right:;
     text-align: center;
-    float: right;
+    height: 290px;
+   
 }
 .seccion-opciones img{
     width: 180px;
