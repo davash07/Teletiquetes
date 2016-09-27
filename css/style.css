@@ -347,6 +347,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   background-image: url(../images/fondo.jpg);
+  background-size: cover;
 }
 .gtco-cover > .gtco-container {
   position: relative;
