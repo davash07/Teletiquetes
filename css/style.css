@@ -1410,6 +1410,7 @@ form label {
   height: 54px;
   font-size: 18px;
   font-weight: 300;
+    color: azure;
 }
 .form-control:active, .form-control:focus {
   outline: none;
